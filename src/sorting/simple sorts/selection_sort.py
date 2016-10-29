@@ -1,5 +1,5 @@
 __author__ = "Amr Reda"
-#Selection Sort O(n^2)
+#Selection Sort, time complexity: O(n^2)
 
 #find the smallest value in an array
 def findSmallest(arr):
