@@ -1,5 +1,5 @@
 __author__ = "Amr Reda"
-#Binary Search O(log(n))
+#Binary Search, time complexity: O(log(n))
 
 
 def binary_search(list, item):
