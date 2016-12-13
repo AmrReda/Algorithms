@@ -15,7 +15,7 @@ def isPrime(n):
     
     m = sqrt(n)
 
-    for i in range(3, m):
+    for i in range(3, int(m)):
         if n % i == 0:
             return False
         i += 2
